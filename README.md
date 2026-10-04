@@ -12,6 +12,10 @@ LeagueVault needs Riot API access to load ranks and games. Either paste your own
 
 Your accounts, passwords and API key stay on your PC, encrypted with Windows. Nothing is uploaded.
 
+## Privacy
+
+See the [privacy policy](privacy.md). In short: your data stays on your PC; Riot API requests go to Riot directly or through the invite-code relay.
+
 ## Report a problem
 
 Open an issue in this repository with what happened. In the app, Settings → Help → **View error log** and Settings → Riot & client → **Export client diagnostics** produce files you can attach (secrets are removed).
